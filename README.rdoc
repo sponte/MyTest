@@ -1,0 +1,2 @@
+=MyTest
+This repository will be used to check how ruby gems treat github.com
