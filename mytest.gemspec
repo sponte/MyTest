@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
 	s.rdoc_options = ["--main", "README.rdoc"]
 	s.require_paths = ["lib"]
 	s.rubyforge_project = "mytest"
-	s.rubygems_version = "1.3.5"
+	s.summary = %q{MyTest gem used for testing my files}
 end
 
